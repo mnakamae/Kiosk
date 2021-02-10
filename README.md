@@ -1,5 +1,4 @@
-# RB_AIR_RACE_SIM
-Red-Bull Air Racing Simulator Training Plugin
+# Classroom Door Kiosk
 
 Cal Poly SLO Senior Project 2021
 
