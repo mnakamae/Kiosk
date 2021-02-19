@@ -18,4 +18,6 @@ Kenneth Liu and Mark Nakamae
 - removed text input field and update button
 
 ## Android Application
-in progress
+### Benchmark 1
+- created a basic android application that takes user input and prints message to the screen
+- updates text via button press
