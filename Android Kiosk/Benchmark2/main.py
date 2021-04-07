@@ -6,8 +6,6 @@ from kivy.uix.textinput import TextInput
 
 from awscrt import io, mqtt, auth, http
 from awsiot import mqtt_connection_builder
-import time as t
-import json
 
 def connect_mqtt(msg):
     # Define ENDPOINT, CLIENT_ID, PATH_TO_CERT, PATH_TO_KEY, PATH_TO_ROOT, MESSAGE, TOPIC, and RANGE
