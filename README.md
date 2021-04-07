@@ -19,5 +19,10 @@ Kenneth Liu and Mark Nakamae
 
 ## Android Application
 ### Benchmark 1
-- created a basic android application that takes user input and prints message to the screen
+- created a basic android application in Android Studio that takes user input and prints message to the screen
 - updates text via button press
+
+### Benchmark 2
+- created a basic android application in Kivy that takes user input form a text box
+- publishes their data to the mqtt client upon button press
+- NOTE: need to create a "certs directory" with your permissiom/key files
